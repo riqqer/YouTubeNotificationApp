@@ -74,7 +74,7 @@ public class YouTubeNotificationApp {
         channel.subscribe(user5);
         channel.subscribe(user6);
 
-        channel.uploadVideo("What if Chainsaw Man had an opening in the style of Death Note OP 2?");
+        channel.uploadVideo("What if Earth has suddenly stopped?");
 
         channel.unsubscribe(user2);
         channel.unsubscribe(user5);
